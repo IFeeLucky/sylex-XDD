@@ -11,5 +11,7 @@ Sylex is a tool shop that sells 10 lines of code lololol
 - ID 2 Token / a fake tool to get a discord "token" from an ip
 
 
+**DONT BUY FROM HIM JUST LEARN HOW TO CODE RETARD** he's a skid and call us "lammers"
+
 
 Join here for more :) https://discord.gg/sC5EEkhE
