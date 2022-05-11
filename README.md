@@ -4,7 +4,7 @@
 Sylex is a tool shop that sells 10 lines of code lololol
 ## Tools
 
-- [Email BruteForce](https://github.com/IFeeLucky/sylex-XDD/blob/main/emailBruteForce.py)
+- [Email BruteForce](https://github.com/zEncrypte/sylex-XDD/blob/main/Email_Brute_Force.py)
 - Webhook Fucker / Very shitty webhook spammer
 - [Sms Spammer](https://cdn.discordapp.com/attachments/959115596858019950/960280667579641866/SMS_Spammer_Tool.rar)
 - Nitro generator / **actually a TOKEN LOGGER bound to a shitty nitro code spammer**
