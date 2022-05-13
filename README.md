@@ -1,8 +1,9 @@
 
 # Sylex
 
-Sylex is a tool shop that sells 10 lines of code lololol
-## Tools
+> **Sylex is a tool shop that sells 10 lines of code lololol**
+
+## Tools:
 
 - [Email BruteForce](https://github.com/zEncrypte/sylex-XDD/blob/main/Email_Brute_Force.py) / deobfuscated in seconds
 - [Webhook Fucker](https://github.com/zEncrypte/sylex-XDD/blob/main/Webhook_Fucker_Tool.py) / Very shitty webhook spammer
@@ -12,7 +13,4 @@ Sylex is a tool shop that sells 10 lines of code lololol
 - [Nuker Beta](https://github.com/zEncrypte/sylex-XDD/blob/main/Sylex_Nuker_Beta.js) / deobfuscated in seconds
 - Sylex token grabber builder / was a skidded token grabber LOL
 
-**DON'T BUY IT FROM HIM AND LEARN HOW TO MAKE YOUR OWN CODE** / he's a skid and call us "lammers"
-
-
-[Bypassers Gang](https://discord.gg/sbZUQE68nQ)
+> **DON'T BUY IT FROM HIM AND LEARN HOW TO MAKE YOUR OWN CODE** / he's a skid and call us "lammers"
