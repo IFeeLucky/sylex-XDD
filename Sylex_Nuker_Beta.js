@@ -1,4 +1,4 @@
-//ez deobf
+//:) ez deobf
 const {Client, Intents, MessageEmbed} = require("discord.js");
 const nuker = new Client({intents: Object.values(Intents.FLAGS).reduce((mayleigh, zeporia) => {
   return mayleigh + zeporia;
