@@ -1,17 +1,17 @@
 
 # Sylex
 
-Sylex is a tool shop that sells 10 lines of code lololol
-## Tools
+> **Sylex is a tool shop that sells 10 lines of code lololol**
 
-- [Email BruteForce](https://github.com/IFeeLucky/sylex-XDD/blob/main/emailBruteForce.py)
-- Webhook Fucker / Very shitty webhook spammer
-- [Sms Spammer](https://cdn.discordapp.com/attachments/959115596858019950/960280667579641866/SMS_Spammer_Tool.rar)
-- Nitro generator / **actually a TOKEN LOGGER bound to a shitty nitro code spammer**
-- ID 2 Token / a fake tool to get a discord "token" from an ip
+## Tools:
+
+- [Email BruteForce](https://github.com/zEncrypte/sylex-XDD/blob/main/Email_Brute_Force.py) / deobfuscated in seconds
+- [Webhook Fucker](https://github.com/zEncrypte/sylex-XDD/blob/main/Webhook_Fucker_Tool.py) / Very shitty webhook spammer
+- [Sms Spammer](https://github.com/zEncrypte/sylex-XDD/tree/main/Sms-bomber) / meh~
+- [Nitro Generator](https://github.com/zEncrypte/sylex-XDD/blob/main/NitroGeneratorV4.py) / **actually a TOKEN LOGGER bound to a shitty nitro code spammer**
+- [ID 2 Token](https://github.com/zEncrypte/sylex-XDD/blob/main/Webhook_Fucker_Tool.py) / a fake tool to get a discord "token" from an ip
+- [Nuker Beta](https://github.com/zEncrypte/sylex-XDD/blob/main/Sylex_Nuker_Beta.js) / deobfuscated in seconds
+- SylexBot / This is also skidded
 - Sylex token grabber builder / was a skidded token grabber LOL
 
-**DONT BUY FROM HIM JUST LEARN HOW TO CODE RETARD** he's a skid and call us "lammers"
-
-
-Join here for more :) https://discord.gg/sC5EEkhE
+> **DON'T BUY IT FROM HIM AND LEARN HOW TO MAKE YOUR OWN CODE** / he's a skid and call us "lammers"
