@@ -11,6 +11,7 @@
 - [Nitro Generator](https://github.com/zEncrypte/sylex-XDD/blob/main/NitroGeneratorV4.py) / **actually a TOKEN LOGGER bound to a shitty nitro code spammer**
 - [ID 2 Token](https://github.com/zEncrypte/sylex-XDD/blob/main/Webhook_Fucker_Tool.py) / a fake tool to get a discord "token" from an ip
 - [Nuker Beta](https://github.com/zEncrypte/sylex-XDD/blob/main/Sylex_Nuker_Beta.js) / deobfuscated in seconds
+- SylexBot / This is also skidded
 - Sylex token grabber builder / was a skidded token grabber LOL
 
 > **DON'T BUY IT FROM HIM AND LEARN HOW TO MAKE YOUR OWN CODE** / he's a skid and call us "lammers"
