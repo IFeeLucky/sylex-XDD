@@ -13,4 +13,5 @@
 <a href="https://github.com/zEncrypte/sylex.tools/SylexBot.proofs/readme.md"><img src="https://i.ibb.co/G03d5B2/Screenshot-2.png" alt="skid" border="0"></a>
 
 > Revisen bien la parte de abajo del embed
-> Se te olvido renombrar un pequeño detalle~~
+
+~~Al parecer se te olvido renombrar un pequeño detalle~~
