@@ -2,8 +2,6 @@
 # Sylex
 
 > **Sylex is a tool shop that sells 10 lines of code lololol and some other public tool cof~ cof~ skid**
-- Your store is currently in [here](https://sylexrewards.sellix.io/)
-> **Don't buy anything from that store, don't be stupid.**
 
 ## Tools:
 
