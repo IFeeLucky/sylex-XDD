@@ -1,4 +1,4 @@
-# Screenshots:
+# Minecraft Info:
 
 > El dueño oficial es: [Jystro](https://github.com/Jystro)
 
