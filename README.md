@@ -1,7 +1,7 @@
 
 # Sylex
 
-> **Sylex is a tool shop that sells 10 lines of code lololol And some other public tool cof~ cof~ skid**
+> **Sylex is a tool shop that sells 10 lines of code lololol and some other public tool cof~ cof~ skid**
 
 ## Tools:
 
