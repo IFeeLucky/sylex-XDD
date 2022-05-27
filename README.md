@@ -13,7 +13,6 @@
 - [x] [Nuker Beta](https://github.com/zEncrypte/sylex-XDD/blob/main/Sylex.shop/Sylex_Nuker_Beta.js) / deobfuscated in seconds
 - [x] [SylexBot](https://github.com/zEncrypte/sylex.tools/tree/main/SylexBot.proofs) / This is also skidded
 - [x] [Python Crypter FUD](https://github.com/zEncrypte/sylex.tools/blob/main/Sylex.shop/python.crypter.fud.py) / possibly your obfuscator
-- [ ] Sylex token grabber builder / was a skidded token grabber LOL
 - [ ] SylexCloner 
 - [ ] DiscordMultiTool 
 - [ ] DiscordAccountNuker
