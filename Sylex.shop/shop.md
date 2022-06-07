@@ -5,4 +5,4 @@
 > The tools of that store will be published here soon.
 
 
-- Currently his store is [here](https://discord.gg/tSVucduRY7)
+- Currently his store is [discord](https://discord.gg/tSVucduRY7) and [sellix](https://sylexrewards.sellix.io/)
