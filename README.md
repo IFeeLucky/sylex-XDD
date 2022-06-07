@@ -17,6 +17,6 @@
 - [ ] DiscordMultiTool 
 - [ ] DiscordAccountNuker
 - [ ] DoxingMethod
-- [ ] IMAGELOGGER / possibly skid token grabber
+- [ ] ImageLogger / possibly skid token grabber
 
 > **DON'T BUY IT FROM HIM AND LEARN HOW TO MAKE YOUR OWN CODE** / he's a skid and call us "lammers"
