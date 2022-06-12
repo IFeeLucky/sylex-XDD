@@ -439,4 +439,3 @@ with open("Nitro Codes.txt") as file:
 time.sleep(0.2)
 
 input("\nYou have generated, Now press enter to close this, you'll get valid codes in Valid Codes.txt if you see its empty then you got no luck, generate 20 million codes for luck or else. bad luck :(  ")
-
